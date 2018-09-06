@@ -1,0 +1,2 @@
+# kaggleTitanicPrediction
+通过Kaggle上的泰坦尼克号获救预测，包括Kaggle特征工程处理的简单步骤
